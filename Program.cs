@@ -1,4 +1,5 @@
 ﻿using LogicalProgramDay6;
+using LogicalPrograms;
 
 namespace LogicalProblemDay6
 {
@@ -11,7 +12,11 @@ namespace LogicalProblemDay6
             //StopWatch.Stopwatches();
             //PerfectNumber.perfectDisplayNumber();
             //PrimeNumber.checkPrimeNumber();
-            ReverseNumber.DisplayNumber();
+            //ReverseNumber.DisplayNumber();
+            //Date.WeeksDay();
+            // Temp.temperatur();
+            //Payment.CalPayment();
+            Machine.VendingMachine();
         }
     }
 
